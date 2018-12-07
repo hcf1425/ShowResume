@@ -5,6 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
+secret_config/
+.idea/
+*.pyc[od]
+logs/
 
 # Distribution / packaging
 .Python
