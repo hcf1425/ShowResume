@@ -9,6 +9,7 @@ secret_config/
 .idea/
 *.pyc[od]
 logs/
+settings.py
 
 # Distribution / packaging
 .Python
