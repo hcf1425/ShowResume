@@ -7,9 +7,9 @@ __pycache__/
 *.so
 secret_config/
 .idea/
-*.pyc[od]
+*.pyc
 logs/
-settings.py
+
 
 # Distribution / packaging
 .Python
